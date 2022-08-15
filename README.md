@@ -1,2 +1,2 @@
 # easyCH-ENtranslator
-a CH-EN translator.
+ A CH-EN translator. Please click "dic.py" to run this program
